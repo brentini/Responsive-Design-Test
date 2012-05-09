@@ -1,4 +1,4 @@
-var defaultURL = 'peoriawebsolutions.com'; //<---- CHANGE TO YOUR WEBSITE URL
+var defaultURL = 'getskeleton.com'; //<---- CHANGE TO YOUR WEBSITE URL
 
 //show loading graphic
 function showLoader(id) {
